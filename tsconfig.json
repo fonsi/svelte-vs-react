@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "module": "es6",
+    "target": "es6",
+    "allowJs": true,
+    "jsx": "react",
+    "types": ["svelte"]
+  },
+  "files": ["src/index.ts"]
+}
